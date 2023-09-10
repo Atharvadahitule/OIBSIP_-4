@@ -1,7 +1,9 @@
 # OIBSIP
 OASIS INFOBYTE INTERNSHIP PROJECT
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Famberkakkar01%2FIRIS-Flower-
 
+classification&psig=AOvVaw0YHgD4QoMMO1wcwpeKCASw&ust=1694413604322000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJD9jdu0n4EDFQAAAAAdAAAAABAE
 Iris flower has three species; setosa, versicolor, and virginica, which differs according to their
 measurements. We have considered  the measurements of the iris flowers according to
 their species, and we have trained a machine learning model that can learn from the
