@@ -8,4 +8,4 @@ their species, and we have trained a machine learning model that can learn from 
 measurements of the iris species and classify them.
 
 
-DATA FROM @https://www.kaggle.com/datasets/saurabh00007/iriscsv
+DATA FROM https://www.kaggle.com/datasets/saurabh00007/iriscsv
