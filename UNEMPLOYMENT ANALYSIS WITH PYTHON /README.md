@@ -1,20 +1,20 @@
+OIBSIP
+OASIS INFOBYTE INTERNSHIP PROJECT
 
 ![image](https://github.com/Atharvadahitule/OIBSIP/assets/91479522/0919f713-d488-4f62-b583-a1e185e9bf05)
 
+This project consists of Unemployment is measured by the unemployment rate which is the number of people who are unemployed as a percentage of the total labour force. We have seen a sharp increase in the unemployment rate during Covid-19, so analyzing the unemployment rate.
 
+ACCORDING TO REGION
 
-Iris flower has three species; setosa, versicolor, and virginica, which differs according to their measurements. We have considered the measurements of the iris flowers according to their species, and we have trained a machine learning model that can learn from the measurements of the iris species and classify them.
+EAST 
 
-The dataset for this project originates from the Machine Learning Repository.
+NORTHEAST
 
-The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample (in centimetres):
+NORTH
 
-SepalLengthCm
+WEST
 
-SepalWidthCm
+SOUTH 
 
-PetalLengthCm
-
-PetalWidthCm
-
-DATA FROM https://www.kaggle.com/datasets/saurabh00007/iriscsv
+DATA FROM https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
